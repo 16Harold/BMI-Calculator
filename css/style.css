@@ -205,5 +205,8 @@ th {
   width: 220px;
   text-align: center;
 }
+  label {
+  font-size: 12px;
+}
 
 }
